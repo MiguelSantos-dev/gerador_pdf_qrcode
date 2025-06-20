@@ -36,7 +36,7 @@ Este projeto é uma API REST desenvolvida com FastAPI que gera PDFs dinâmicos a
    ```
 
 5. Acesse a documentação interativa:
-   [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+   [http://127.0.0.1:8000/docs](http://127.0.0.1:7007/docs)
 
 ## Exemplo de JSON
 
